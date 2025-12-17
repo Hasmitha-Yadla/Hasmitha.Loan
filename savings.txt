@@ -1,0 +1,5 @@
+Interest Saved: 63024.00
+Tenor Reduced: 1 months
+Total Prepayment: 50000.00
+Prepayments (month, amount):
+4, 50000.00
